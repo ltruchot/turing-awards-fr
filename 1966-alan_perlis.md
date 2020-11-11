@@ -30,6 +30,7 @@ Résumé: Pionnier, co-créateur ALGOL, formalisation informatique et premiers c
   - Purdue University (Indiana N-E) et Carnegie .I.T (Pennsylvanie), Perlis dévelope son premier langage IT (Iternal Translator), pour le Datatron et l'IBM 650: un "compilateur d'expressions mathématiques" (proche de Fortran, et concurrent pour machine plus petite)
   - Pour le compte de l'ACM (Association for Computing Machinery), contribution au premier langage indépendant des machines: ALGOL-60 (Algorithmic Language)
 
+#### Hello world avec ALGOL (autre nom, ALGOL-60)
 ```ALGOL
 BEGIN
   FILE F(KIND=REMOTE);
@@ -52,6 +53,12 @@ Il invente la notion de bloc, et par extension la récursion dans ces blocs et l
 
 - des années 60 à 70, en plus de ses recherches, le quarantenaire est très investit dans les universités et l'ACM pour créer un science informatique: computer science, formaliser le parcours, les programmes scolaires et et les diplômes... principalement financé par l'ARPA (Advanced Research Projects Agency de la défence américaine).
 - Ambassadeur d'ALGOL à l'international, mais aussi d'APL, son langage favori
+
+
+#### Hello world avec APL
+```APL
+'Hello World!'
+```
 
 Enfin de 70 à 1990
 - professeur d'informatique à l'université de Yale (Connecticut - N-E)
