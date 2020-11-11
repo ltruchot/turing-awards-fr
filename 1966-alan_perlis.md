@@ -2,14 +2,13 @@
 
 Américain - 1922 - 1990
 
-
-1966 - Premier informaticien à recevoir Prix Turing à sa création en 1966
-
-
-Raison: influence dans domaine des techniques de programmation avancée et construction de compilateurs
+Premier informaticien à recevoir Prix Turing à sa création en 1966
 
 
-Résumé: Pionnier, co-créateur ALGOL, formalisation informatique et premiers cursus informatique universitaires aux USA
+**Raison**: influence dans domaine des techniques de programmation avancée et construction de compilateurs
+
+
+**Résumé**: Pionnier, co-créateur ALGOL, formalisation informatique et premiers cursus informatique universitaires aux USA
 
 ## Biograhie
 - né le 1er avril 1922 à Pittsburgh, Pennsylvanie (N-E USA)
@@ -47,9 +46,9 @@ ALGOL est un language:
 - types statiques
 - compilé (peu pertinent)
 - pas d'I/O (à implémenter selon les ordinateurs)
-- procedures (incomplètes)
+- commentaires, structures de contrôle, variable et scope, procedures (incomplètes)...
   
-Il invente la notion de bloc, et par extension la récursion dans ces blocs et la notion de "variable locale"
+Invente notion de bloc, et par extension la récursion dans ces blocs et la notion de "variable locale"
 
 - des années 60 à 70, en plus de ses recherches, le quarantenaire est très investit dans les universités et l'ACM pour créer un science informatique: computer science, formaliser le parcours, les programmes scolaires et et les diplômes... principalement financé par l'ARPA (Advanced Research Projects Agency de la défence américaine).
 - Ambassadeur d'ALGOL à l'international, mais aussi d'APL, son langage favori
