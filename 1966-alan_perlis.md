@@ -1,7 +1,14 @@
 # Alan J. Perlis
+
 Américain - 1922 - 1990
+
+
 1966 - Premier informaticien à recevoir Prix Turing à sa création en 1966
+
+
 Raison: influence dans domaine des techniques de programmation avancée et construction de compilateurs
+
+
 Résumé: Pionnier, co-créateur ALGOL, formalisation informatique et premiers cursus informatique universitaires aux USA
 
 ## Biograhie
