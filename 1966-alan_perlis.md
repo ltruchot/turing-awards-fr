@@ -1,6 +1,6 @@
 # Alan J. Perlis
 
-Américain - 1922 - 1990
+Américain / 1922-1990
 
 Premier informaticien à recevoir Prix Turing à sa création en 1966
 
@@ -76,7 +76,7 @@ Enfin de 70 à 1990
 - Un programmeur LISP connaît la valeur de tout, mais le coût de rien.
 - Enseigner la programmation va à l’encontre de l’éducation moderne : Quel est le plaisir à planifier, se discipliner à organiser ses pensées, faire attention aux détails et apprendre à être autocritique ?
 
-## Biliographie choisie
+## Bibliographie choisie
 - [1960 - Symbol manipulation by threaded lists](https://dl.acm.org/doi/10.1145/367177.367202)
 - [1977 - In praise of APL: a language for lyrical programming](https://www.jsoftware.com/papers/perlis77.htm)
 - [1982 - Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
